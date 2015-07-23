@@ -1,0 +1,1 @@
+﻿Add small cheap 'resting station' for droids to sit on when idle. Acts like a bed, very slowly recharges them when they are on it.
